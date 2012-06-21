@@ -1,5 +1,5 @@
-My first line at Uber
+My 1st line at Uber
 
 Let's check this out.
 
-My 3rd line.  This is the git workshop
+My 3rd line.  This is the git workshop. 
