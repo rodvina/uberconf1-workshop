@@ -1,5 +1,5 @@
 My 1st line at Uber
 
-Let's check this out.
+Let's check out.
 
 My 3rd line.  This is the git workshop. 
